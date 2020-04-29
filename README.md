@@ -1,2 +1,2 @@
 # Shootout
-Nacu Florin Ionut, gr. 142
+A little game about some agents who will shoot themselves when they meet
